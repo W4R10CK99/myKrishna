@@ -4,9 +4,9 @@
 
 This project involves creating a Bhagavad Gita Chatbot utilizing the LLamaIndex framework for efficient information retrieval. The Chatbot is designed to respond intelligently to user queries about Bhagavad Gita teachings.
 
-![Demo Image 1](demo/img1.png)
-![Demo Image 2](demo/img2.png)
-![Demo Image 3](demo/img3.png)
+![Demo Image 1](Demo/img1.png)
+![Demo Image 2](Demo/img2.png)
+![Demo Image 3](Demo/img3.png)
 
 ## Installation
 
