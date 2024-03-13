@@ -18,11 +18,13 @@ pip install llama-index openai python-dotenv pypdf
 
 ## Configuration
 Install the necessary packages using the provided requirements file.
-Create a .env file and set your OpenAI API key:
+Create a .env file and set your LLM API key:
 
 ```bash
 echo "OPENAI_API_KEY=your_openai_api_key" > .env
 ```
+## Or you can download an open source LLM and deploy the code for it.
+
 
 ## Usage
 
